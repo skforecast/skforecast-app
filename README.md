@@ -1,2 +1,3 @@
 # skforecast-app
-Interactive app to create forecasting models with skforecast
+
+Interactive app to create and evaluate forecasting models with skforecast
